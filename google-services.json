@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "598276076900",
+    "project_id": "tesst-c995b",
+    "storage_bucket": "tesst-c995b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598276076900:android:05bf5943df404bfb0bf671",
+        "android_client_info": {
+          "package_name": "com.breens.foodadminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKL8sE-F_gDzQT1PBLZMeRyu-d-R8VF7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598276076900:android:2a13ce4978e03b720bf671",
+        "android_client_info": {
+          "package_name": "com.breens.orderfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKL8sE-F_gDzQT1PBLZMeRyu-d-R8VF7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598276076900:android:46434d9f177b474f0bf671",
+        "android_client_info": {
+          "package_name": "com.breens.todochamp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKL8sE-F_gDzQT1PBLZMeRyu-d-R8VF7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
